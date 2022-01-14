@@ -12,4 +12,4 @@
 而面對這樣的局勢混亂，眾神們召開了一系列的天神會議，來決策、擬訂出應對人類世界動盪的解決方案，其中包括了雷神和雨神提出的暴雨企劃、提高報酬等提案；冬神和夏神提倡的季節更替草書；秘書代表發表的天神自治動議。
 ## 遊戲體驗
 
-[group 2 (2).zip](https://github.com/amberlo99/Group-2-Project/files/7865422/group.2.2.zip)
+[明天投給雨天](https://amberlo99.github.io/Group-2-Project/index.html)
